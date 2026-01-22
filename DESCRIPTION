@@ -9,6 +9,7 @@ Authors@R:
       person("Yu", "Liu", role = "aut"),
       person("Xuerui", "Yang", role = "aut"),
       person("Rongyao", "Huang", email = "THUhry12[at]163.com", role = "ctb"))
+Maintainer: Placeholder
 Description: 
     The xtail package is designed to identify genes exhibiting differential 
     translation between two experimental conditions by simultaneously analyzing 
